@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bleplxprototype",
+    "slug": "bleplxprototype",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bleplxprototype"
+}
